@@ -3,6 +3,6 @@
 
 HTML, CSS, JavaScript
 
-<img src="https://media.giphy.com/media/QFuDFY3ZfEOWK8coe0/giphy.gif"  width="500"/>
+<img src="https://media.giphy.com/media/RIuXzTrGgK4t7a5XG8/giphy.gif"  width="500"/>
 
 
